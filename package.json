@@ -1,0 +1,15 @@
+{
+  "name": "Migrate-goQuorum-artifacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "updateReleaseNotes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^18.3.5"
+  }
+}
