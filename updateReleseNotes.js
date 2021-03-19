@@ -4,7 +4,7 @@ const { Octokit } = require("@octokit/rest");
 const owner = 'REPO_OWNER' //  ex. 'ConsenSys'
 const repo = 'REPO_NAME' // ex. 'quorum'
 const auth = 'ACCESS_TOKEN' // ex. 'ea5330f68542cdabfb92a4517b1b702ef70504f6'
-
+// TODO: update the URLs based on the requirements 
 const oldUrl = 'bintray.com/quorumengineering/quorum/download_file?file_path='
 const newUrl = 'artifacts.consensys.net/public/go-quorum/raw/versions/'
 
